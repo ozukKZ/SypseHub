@@ -1,4 +1,5 @@
 --getgenv().key = 'etc'
+--skidded whitelist
 
 assert(key, 'key not found');
 local http_request = assert(syn.request, 'couldnt find http request func');
@@ -123,7 +124,6 @@ local whitelisted_flag = false;
 if data.StatusCode == 200 then
 	local response = data.Body;
 	if response == hash(key) then
-		-- // wow, they are authenticated!
 		whitelisted_flag  = true;
     else
         while true do end;
