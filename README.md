@@ -1,7 +1,6 @@
 # SypseHub
-```
-SKIDDED ASS HUB AND COPIED! MONEY WAWSTE
-```
+shit skidded hub for a roblox game called "Dragon Ball Z Final Stand"
+
 credits : 
 ```
     - Sypse#6005 (making the hub)
