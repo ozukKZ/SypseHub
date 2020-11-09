@@ -1,4 +1,4 @@
---UWUWARE UI LIBRARY
+--UWUWARE UI LIBRARY (BUT MODIFIED A BIT)
 
 local library = {flags = {}, windows = {}, open = true}
 
