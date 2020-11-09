@@ -1,4 +1,4 @@
---old crack, no need the obfuscated source its same thing from fullsource.lua lol
+--old crack, no need the obfuscated source we have fullsource.lua lol
 
 local old, old2;
 local lp = game:GetService'Players'.LocalPlayer;
