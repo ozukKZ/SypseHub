@@ -1,4 +1,4 @@
-getgenv().key = 'KEYHERE';
+getgenv().key = 'sypse hub sucks';
 
 local hash do --define hash function sha256.lua
     local MOD = 2^32
