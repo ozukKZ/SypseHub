@@ -2,7 +2,7 @@
 	code generated using luamin.js, Herrtt#3868
 --]]
 
-
+--BIT OLD FROM ALMOST MONTH AGO
 repeat
 	wait()
 until game:IsLoaded();
