@@ -1,4 +1,4 @@
-local hash do --sha256
+local hash do --define hash function sha256.lua
     local MOD = 2^32
     local MODM = MOD-1
     local bxor = bit32.bxor;
