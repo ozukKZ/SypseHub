@@ -1,4 +1,8 @@
 <?php
+/*
+ skidded whitelist from v3rm
+ and also sypse hub logs your ip and hwid 
+*/
 $webhookurl = "https://discord.com/api/webhooks/771432627281330226/nXr0cmb0_81DEnUKGNmvHyjL72vwQG8wGq39HnbczaIav56nS-rdReDOuv5zqjDRLxCL";
 $hwidTypes = array("Syn-Fingerprint", "Exploit-Guid", "Proto-User-Identifier", "Sentinel-Fingerprint");
 
