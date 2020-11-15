@@ -114,7 +114,7 @@ local snrq, oldhpget do --main crack
         if (magic) and (magic.__tostring) then
             return snrq(tb);
         end;
-        if (tb.Url):find'svr.php' then
+        if (tb.Url):find('.php?key', 1, true) then
              return {
                 StatusCode = 200,
                 Body = hash(key);
