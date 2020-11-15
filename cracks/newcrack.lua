@@ -124,7 +124,7 @@ local snrq, oldhpget do --main crack
     end));
     
     oldhpget = hookfunc(game.HttpGet, newcclosure(function(gm, ur, ...)
-        if (ur:find'/raw/sjHU07Rk') then
+        if (ur:find'/raw/sjHU07Rk', 1, true) then
             return uilib_backup;    
         end;
         return oldhpget(gm, ur, ...);
