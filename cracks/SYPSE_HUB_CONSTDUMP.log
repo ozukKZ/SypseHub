@@ -1,0 +1,1530 @@
+Yellow Beans
+Connect
+max
+FOV
+Melee Damage: 
+Idled
+StatusCode
+Yellow Jars
+Tele-Speed
+assert
+Invisibility
+VirtualUser
+Namek
+Speed: 
+Aqua Gi
+Wing/Halo Color
+report_web
+Lookout
+fromRGB
+key not found
+AddBind
+Recommended Farm
+LocalPlayer
+SYPSE HUB
+wrap
+Wing/Halo Remover
+RenderStepped
+color
+TP Behind
+MiscMain
+NPC4
+Auto Farm
+ImageLabel
+lshift
+Aleady Executed
+Drugs
+NPC3
+Buy Beans
+AddLabel
+rep
+format
+TPBehind_Bind
+Red Beans
+Teleportation
+Blue Jars
+RobloxCrashHandler
+HTC
+Name: 
+Level Remover
+Getting HWID
+PlayerGui
+Mid
+string
+value
+Credits
+Hard Reset
+gsub
+Kick
+Player Name
+rshift
+Red Jars
+Dragon Crush Stuck
+GetService
+1
+GET
+AddSlider
+syn
+BackgroundColor3
+SetCore
+Close
+key
+wait
+FunMain
+coroutine
+8
+Url
+RunService
+Melee Resistance: 
+Saturation
+Green Jars
+6
+Space
+bxor
+print
+Earth Godmode
+Body
+Stay In Form
+Blue Beans
+Dragon Crush
+_G
+couldnt find http request func
+ClickTP_Bind
+Live
+Ki Damage: 
+rrotate
+Buy
+game
+Super Dragon Fist Aura
+Frame
+3
+Health Max: 
+values
+char
+Players
+FindFirstChild
+AddBox
+Lock On
+request
+Auto Attack
+Buy Elder Kai
+bnot
+Ki Resistance: 
+Better Walking Anim
+Heaven
+Name
+new
+AddList
+Click TP
+CreateButton
+Bottom
+Alpha Clothes
+PlaceId
+Fusion Stack
+CoreGui
+Wrathful Charge Aura
+Sypse Hub
+Use Moves
+2
+Top Respawn
+Zaros
+Super Rush Aura
+Main
+Tutorial
+Character
+Stat Checker
+Show Hitbox
+TextLabel
+StarterGui
+FullBright
+Wide Head
+Clothes
+whitelisted
+IsLoaded
+Earth
+Ki Max: 
+Dummy Stand
+Fixed AutoFarm:
+Segward#7539
+connect
+HardReset_Bind
+AddButton
+https://sypse.xyz/other/nothing.lua.php
+AddFolder
+Method
+Not in a Whitelisted Game.
+callback
+HUD
+Future
+Prestige: 
+Green Beans
+Server Destroyer
+bit32
+First Person
+HttpGet
+Noslow
+Kaioken Assault Aura
+Buy Jars
+Title
+http://sypse.xyz/svr.php?key=
+Other
+Color3
+5
+Dragon_Crush
+text
+Bean Spam
+min
+NPC1
+Workspace
+Destroy
+Checking Game
+FunAura
+Fun
+CreateWindow
+7
+Bean Color
+Queue World
+ImageButton
+Executed
+MiscOther
+Dragon Crush Yeet
+4
+11
+9
+Jar Color
+Race: 
+band
+Dust
+byte
+Aura
+NPC2
+AddToggle
+SideMenu
+AddColor
+SendNotification
+Init
+10
+Text
+Misc
+Duration
+TC Armor
+Extra: 
+state
+loadstring
+Secret World
+wait
+getrenv
+report_web
+pcall
+syn
+RenderStepped
+__tostring
+setmetatable
+__index
+request
+report_web
+__tostring
+setmetatable
+report_web
+.
+%02x
+€
+assert
+ 
+Vector2
+CFrame
+new
+CurrentCamera
+Button2Down
+wait
+workspace
+Button2Up
+Connect
+Disconnect
+RunService
+game
+Stepped
+GetService
+tele
+game
+Character
+Players
+Slow
+LocalPlayer
+Action
+heavy
+Attacking
+Tele
+Killed
+Using
+Hyper
+Destroy
+KiBlasted
+FindFirstChild
+hyper
+onButton1Down
+Instance
+Vector3
+BodyGyro
+maxTorque
+down
+LocalPlayer
+onButton1Up
+Players
+onSelected
+Humanoid
+GetMouse
+gyro
+velocity
+maxForce
+Character
+game
+BodyVelocity
+new
+CFrame
+down
+velocity
+Vector3
+CurrentCamera
+x
+Position
+MoveDirection
+z
+game
+cframe
+Parent
+y
+p
+CoordinateFrame
+LocalPlayer
+UpperTorso
+gyro
+workspace
+Players
+new
+Character
+unit
+wait
+velocity
+gyro
+Parent
+down
+connect
+KeyDown
+KeyUp
+upper
+_G
+TeleSpeed_Bind
+onButton1Down
+_G
+upper
+TeleSpeed_Bind
+onButton1Up
+Part
+Character
+game
+Workspace
+Destroy
+HumanoidRootPart
+RenderStepped
+Connect
+LocalPlayer
+Touchy
+FindFirstChild
+PlayerGui
+RunService
+Popup
+GetService
+Players
+Disconnect
+PlayerGui
+firetouchinterest
+FindFirstChild
+Popup
+Destroy
+game
+Players
+LocalPlayer
+MajinParticle
+Head
+LocalPlayer
+Humanoid
+Character
+Players
+MajinAura
+Health
+Tatoo
+Lightning2
+SaiyanAuraWeak
+Destroy
+FindFirstChild
+game
+SaiyanHair
+HumanoidRootPart
+Backpack
+Players
+FindNearest
+Head
+LocalPlayer
+Name
+game
+PrimaryPart
+FireServer
+WaitForChild
+CFrame
+new
+GetService
+Workspace
+ServerTraits
+Vector3
+Character
+Vanish
+Camera
+Position
+target
+Name
+game
+huge
+math
+LocalPlayer
+Character
+GetPlayers
+Players
+DistanceFromCharacter
+pairs
+LockOn_Bind
+checkfov
+RenderStepped
+LocalPlayer
+Draggable
+GetMouse
+RunService
+lower
+Chat
+k
+Name
+ResetOnSpawn
+delay
+game
+ScreenGui
+RobloxCrashHandler
+autoesp
+new
+5
+getfovxyz
+1
+Parent
+Text
+Frame
+CoreGui
+DisplayOrder
+GetService
+f
+Players
+KeyDown
+getaimbotplrs
+Lock On Activated
+TextLabel
+SendNotification
+PlayerGui
+Duration
+Destroy
+SetCore
+Instance
+Your Key: 
+Connect
+aimat
+Title
+addesp
+CurrentCamera
+_G
+StarterGui
+Workspace
+Workspace
+Vector2
+BackgroundTransparency
+UDim2
+Character
+new
+BackgroundColor3
+Adornee
+FindFirstChild
+AlwaysOnTop
+GetChildren
+Destroy
+Instance
+Connect
+game
+BillboardGui
+Position
+Size
+Died
+Health
+Folder
+Rotation
+AnchorPoint
+LocalPlayer
+Active
+BorderSizePixel
+pairs
+Name
+Team
+Head
+Parent
+CurrentCamera
+Humanoid
+Color3
+Frame
+Destroy
+Destroy
+math
+Target
+Head
+[
+t
+Team
+Died
+checkfov
+Name
+u
+tostring
+Text
+pairs
+Humanoid
+Character
+Connect
+GetChildren
+teambasedswitch
+addesp
+teambasedstatus
+Destroy
+f
+Health
+autoesp
+rad
+Parent
+Character
+p
+new
+CFrame
+Vector3
+ToOrientation
+BasePart
+Workspace
+Humanoid
+CurrentCamera
+game
+CFrame
+table
+Head
+Name
+Parent
+LocalPlayer
+new
+p
+Health
+FindPartOnRayWithIgnoreList
+pairs
+GetChildren
+insert
+Ray
+LookVector
+Team
+IsA
+Character
+CFrame
+p
+new
+abs
+X
+Y
+CurrentCamera
+Workspace
+math
+CFrame
+game
+getfovxyz
+connect
+aimat
+checkfov
+Humanoid
+Parent
+LocalPlayer
+Head
+Died
+Character
+getaimbotplrs
+ipairs
+autoesp
+wait
+pcall
+addesp
+f
+game
+FieldOfView
+Workspace
+Camera
+Connect
+FogEnd
+Disconnect
+game
+Lighting
+RunService
+RenderStepped
+GetService
+Lighting
+FogEnd
+game
+LocalTransparencyModifier
+CameraMaxZoomDistance
+GetChildren
+Humanoid
+pairs
+Connect
+BasePart
+Head
+LocalPlayer
+Character
+Players
+Name
+CameraOffset
+game
+new
+IsA
+Vector3
+GetPropertyChangedSignal
+LocalTransparencyModifier
+Transparency
+R6
+new
+Clone
+Humanoid
+Instance
+LowerTorso
+Vector3
+Size
+wait
+spawn
+Players
+Character
+HumanoidRootPart
+Anchored
+Destroy
+PrimaryPart
+workspace
+Part
+LocalPlayer
+CFrame
+Parent
+Root
+Health
+game
+Humanoid
+HumanoidRigType
+Character
+R6
+RigType
+Enum
+R15
+WaitForChild
+Destroy
+wait
+settings
+ShowBoundingBoxes
+RenderSettings
+GetService
+Character
+Players
+Humanoid
+LocalPlayer
+game
+Health
+ServerTraits
+game
+EatSenzu
+FireServer
+Backpack
+wait
+Players
+LocalPlayer
+Spam
+game
+Players
+Destroy
+Character
+LocalPlayer
+FindFirstChild
+RealHalo
+RebirthWings
+Lvl
+Wait
+GetService
+GetChildren
+Destroy
+Character
+CharacterAdded
+string
+pairs
+match
+game
+LocalPlayer
+Players
+Name
+Destroy
+Character
+wait
+respawn
+game
+FindFirstChild
+Players
+SuperAction
+LocalPlayer
+Character
+LocalPlayer
+game
+Destroy
+Players
+FUSED
+Dragon Crush
+Character
+Players
+FindFirstChildOfClass
+Destroy
+FindFirstChild
+Backpack
+GetService
+EquipTool
+Player
+game
+HitDown
+LocalPlayer
+Humanoid
+Health
+Activator
+wait
+Backpack
+Destroy
+game
+wait
+FindFirstChildOfClass
+FindFirstChild
+Activator
+Character
+Flip
+Humanoid
+LocalPlayer
+EquipTool
+Health
+GetService
+Player
+Players
+Blocked
+Dragon Crush
+TextBox
+Frame
+game
+Chi
+RobloxCrashHandler
+Text
+NPC4
+Boxer
+CoreGui
+Saiyan
+3
+NPC1
+Saiba
+NPC2
+NPC3
+Head
+UseMovesMode
+Parent
+Vector3
+magnitude
+Ki
+Trash???
+Deactivate
+Justice Flash
+Blaster Meteor
+Activate
+Melee
+game
+PlaceId
+Size
+Demon Flash
+HumanoidRootPart
+Name
+wait
+Position
+Sudden Storm
+Final Blow
+Character
+Broly BR
+GetService
+Trash
+Backpack
+Target
+Workspace
+LocalPlayer
+Murder Grenade
+Live
+GetChildren
+FindFirstChild
+Anger Rush
+Chain Destructo Disk
+Players
+Burning Blast
+new
+Transparency
+pairs
+_G
+Character
+HumanoidRootPart
+ServerTraits
+Players
+magnitude
+LocalPlayer
+FireServer
+Input
+wait
+new
+mx
+CFrame
+Backpack
+Position
+Target
+game
+GetService
+RobloxCrashHandler
+Transparency
+wait
+HumanoidRootPart
+red
+FindFirstChild
+Humanoid
+TweenInfo
+Players
+LocalPlayer
+NPC2
+Size
+Workspace
+Health
+pairs
+PlaceId
+TweenService
+Z
+Position
+NPC3
+GetChildren
+Linear
+Vector3
+TextBox
+NPC1
+new
+Live
+Name
+Wait
+magnitude
+X
+Head
+CFrame
+string
+Character
+CurrentCamera
+Y
+Target
+RunService
+Play
+CoreGui
+RenderStepped
+find
+EasingDirection
+EasingStyle
+3
+Enum
+Create
+In
+game
+ChangeState
+Broly BR
+len
+Frame
+NPC4
+Text
+Workspace
+ChatStart
+Yellow Beans
+GetService
+game
+FireServer
+LocalPlayer
+wait
+_G
+Red Beans
+Green Beans
+Green
+k
+80
+BeanBuy4
+ChatAdvance
+BeanBuy3
+Beans
+Blue Beans
+BeanBuy2
+BeanBuy1
+FriendlyNPCs
+Korin BEANS
+Backpack
+Yellow
+Players
+Red
+ServerTraits
+Yes
+Blue
+Yellow
+LocalPlayer
+Workspace
+ChatAdvance
+Jars
+JarBuy1
+GetService
+Blue
+Blue Jars
+Red Jars
+game
+80
+_G
+Green
+FriendlyNPCs
+Players
+ChatStart
+FireServer
+Green Jars
+JarBuy3
+Backpack
+JarBuy4
+Korin BEANS
+ServerTraits
+wait
+k
+JarBuy2
+Yes
+Yellow Jars
+Red
+Elder Kai
+Workspace
+wait
+elderkaibuy
+ChatStart
+Yes
+LocalPlayer
+game
+Players
+k
+FriendlyNPCs
+ServerTraits
+Backpack
+ChatAdvance
+GetService
+_G
+FireServer
+FriendlyNPCs
+TC Armor
+Workspace
+ChatAdvance
+Backpack
+Players
+k
+wait
+ServerTraits
+FireServer
+LocalPlayer
+Purchase
+ChatStart
+game
+wait
+Purchase
+FriendlyNPCs
+ServerTraits
+ChatAdvance
+Players
+Workspace
+LocalPlayer
+Backpack
+game
+k
+ChatStart
+Aqua Gi
+FireServer
+Animate
+AnimationId
+rbxassetid://669161051
+walk
+rbxassetid://2625673611
+FindFirstChild
+game
+RunAnim
+Players
+Character
+LocalPlayer
+Saturation
+Lighting
+ColorCorrection
+game
+Character
+LocalPlayer
+RebirthWings
+game
+RealHalo
+Players
+Handle
+Color
+FindFirstChild
+Players
+FindFirstChild
+LocalPlayer
+Head
+game
+Mesh
+Destroy
+Character
+TweenInfo
+Sine
+GetService
+Lighting
+RobloxCrashHandler
+Workspace
+Play
+Frame
+new
+TextBox
+InOut
+Create
+ColorCorrection
+ImageButton
+Saturation
+game
+CurrentCamera
+FOV
+EasingStyle
+_G
+2
+CoreGui
+wait
+EasingDirection
+Text
+Camera
+high
+FieldOfView
+Enum
+TweenService
+HumanoidRootPart
+FindFirstChild
+Play
+Sypse Hub
+Create
+MaxForce
+Title
+Players
+Character
+insert
+Position
+workspace
+huge
+GetService
+ingame
+BodyPosition
+Anchored
+CanCollide
+Text
+Vector3
+IsDescendantOf
+game
+Part
+Massless
+GetDescendants
+SetCore
+Health
+Duration
+TweenInfo
+table
+Great Detective Cape
+EasingStyle
+StarterGui
+FriendlyNPCs
+remove
+ChangeState
+Destroy
+Enum
+PlaceId
+CFrame
+Humanoid
+pairs
+math
+InOut
+wait
+LocalPlayer
+IsA
+TweenService
+Linear
+Workspace
+PointToWorldSpace
+Instance
+magnitude
+x2
+EasingDirection
+maybe
+SendNotification
+FindFirstChildOfClass
+Not On Earth
+new
+CurrentCamera
+GetChildren
+Name
+pairs
+Torso
+FriendlyNPCs
+game
+remove
+FindFirstChild
+Humanoid
+table
+Workspace
+red
+insert
+find
+game
+Disconnect
+RenderStepped
+RunService
+GetService
+connect
+LocalPlayer
+Vanish
+Players
+ServerTraits
+new
+Backpack
+game
+average
+CFrame
+FireServer
+GetService
+RunService
+RenderStepped
+game
+connect
+Light Grenade
+One-Hand Kamehameha
+Name
+Gigantic Breath
+Unrelenting Volley
+Super Death Beam
+Spirit Ball
+Hellzone Grenade
+Death Beam
+Explosive Wave
+GetChildren
+Special Beam Cannon
+Parent
+Explosive Grip
+Pressure Gauge
+LocalPlayer
+Dark Beam
+Energy Wave
+Big Bang Kamehameha
+Backpack
+Demon Flash
+Milky Cannon
+Eraser Cannon
+Super Spirit Bomb
+Broly Kamehameha
+Hell Pillars
+Genocide Shell
+Planet Crusher
+Justice Flash
+Final Kame
+Death Beam Barrage
+Players
+Divine Lasso
+Death Saucer
+Buu Blaster
+Final Shine
+Deactivate
+Galic Gun
+Holy Wrath
+Flame Kamehameha
+Big Bang Attack
+Blaster Meteor
+pairs
+Giant Storm
+Break Cannon
+Crusher Ball
+Chain Destructo Disk
+Beam Scatter
+Final Flash
+Activate
+Double Sunday
+Heat Dome Attack
+Finish Breaker
+Super Volley
+Kamehameha
+Murder Grenade
+Burning Blast
+KKx4 Kamehameha
+Sudden Storm
+wait
+Warp Kamehameha
+Super Nova
+Character
+Tribeam
+Destructo Disk
+Double Buster
+Burning Attack
+Spirit Bomb
+game
+wait
+Backpack
+Character
+Health
+Activator
+SetCore
+LocalPlayer
+FindFirstChildOfClass
+Buy Super Dragon Fist
+StarterGui
+Move Equiped
+Press On a Player
+SendNotification
+Player
+Title
+Duration
+EquipTool
+GetService
+Players
+Destroy
+Text
+Super Dragon Fist
+Forward
+Humanoid
+Sypse Hub
+game
+FindFirstChild
+Text
+GetService
+Backpack
+Title
+Buy Super Rush
+Character
+Player
+LocalPlayer
+Duration
+SetCore
+Humanoid
+EquipTool
+wait
+SendNotification
+Sypse Hub
+Forward
+StarterGui
+Health
+Super Rush
+Activator
+Players
+game
+FindFirstChildOfClass
+FindFirstChild
+Destroy
+Move Equiped
+Press On a Player
+SendNotification
+Activator
+Move Equiped
+Press On a Player
+GetService
+Player
+Humanoid
+Sypse Hub
+EquipTool
+Character
+Health
+Backpack
+LocalPlayer
+Forward
+Title
+Buy Kaioken Assault
+StarterGui
+Kaioken Assault
+wait
+Players
+game
+SetCore
+FindFirstChild
+Text
+FindFirstChildOfClass
+Duration
+Destroy
+Humanoid
+Sypse Hub
+Title
+game
+Text
+FindFirstChildOfClass
+Health
+Buy Wrathful Charge
+Backpack
+SetCore
+SendNotification
+Character
+Wrathful Charge
+Destroy
+Move Equiped
+Press On a Player
+Forward
+Players
+EquipTool
+GetService
+StarterGui
+FindFirstChild
+Activator
+wait
+LocalPlayer
+Player
+Duration
+GetService
+LocalPlayer
+game
+Teleport
+TeleportService
+Players
+Players
+Teleport
+game
+GetService
+TeleportService
+LocalPlayer
+Players
+GetService
+game
+Teleport
+TeleportService
+LocalPlayer
+LocalPlayer
+game
+Players
+Teleport
+GetService
+TeleportService
+Teleport
+Players
+GetService
+LocalPlayer
+TeleportService
+game
+Teleport
+TeleportService
+GetService
+LocalPlayer
+Players
+game
+Players
+Teleport
+game
+LocalPlayer
+TeleportService
+GetService
+GetService
+LocalPlayer
+game
+Players
+TeleportService
+Teleport
+GetService
+Teleport
+TeleportService
+Players
+LocalPlayer
+game
+InOut
+new
+Workspace
+Not On Earth
+Create
+TweenInfo
+TweenService
+SendNotification
+Character
+SetCore
+HumanoidRootPart
+Duration
+x2
+EasingDirection
+GetService
+LocalPlayer
+Quad
+magnitude
+SYPSE HUB
+Play
+game
+Text
+Position
+Enum
+Title
+ChangeState
+PlaceId
+KAMI
+StarterGui
+CFrame
+EasingStyle
+CurrentCamera
+Players
+Humanoid
+insert
+find
+pairs
+NpcNoid
+red
+GetChildren
+Name
+FriendlyNPCs
+game
+remove
+table
+LowerTorso
+FindFirstChild
+Workspace
+Players
+new
+GetMouse
+Target
+z
+x
+CFrame
+Character
+Hit
+y
+HumanoidRootPart
+LocalPlayer
+game
+mouse
+gsub
+%s+
+pairs
+Name
+lower
+^
+match
+GetPlayers
+Workspace
+Value
+Health-Max
+Ki-Max
+ Ki Max: 
+Speed
+Race
+ Ki Resistance: 
+CoreGui
+3
+ Melee Damage: 
+11
+RobloxCrashHandler
+2
+ Melee Resistance: 
+ Ki Damage: 
+Frame
+Ki-Resist
+GetService
+ Name: 
+Text
+Live
+Phys-Damage
+5
+ Health Max: 
+FindFirstChild
+7
+4
+6
+game
+RebirthWings
+10
+RealHalo
+ Speed: 
+ Extra: Rebirthed Slot
+ Extra: Heaven Slot
+Character
+Ki-Damage
+Stats
+9
+Phys-Resist
+ Prestige: 
+ Race: 
+Prestige
+ Extra: Pure Slot
+Name
+1
+8
+WaitForChild
+_
+HUD
+SideMenu
+connect
+MouseButton1Down
+Clone
+FindFirstChild
+new
+UDim2
+gsub
+Players
+Parent
+MouseLeave
+MouseEnter
+game
+service
+Y
+Name
+next
+FindFirstChildWhichIsA
+Bottom
+TextLabel
+tostring
+ImageColor3
+children
+Scale
+ 
+Sypse Hub
+PlayerGui
+upper
+Position
+Text
+Visible
+LocalPlayer
+_clon
+new
+b
+g
+r
+ImageColor3
+Color3
+ImageColor3
+Close
+Players
+Humanoid
+Destroy
+Character
+PlayerGui
+Health
+Sypse Hub
+HUD
+FindFirstChild
+fromRGB
+wait
+LocalPlayer
+Mid
+new
+Bottom
+Color3
+SideMenu
+game
+Tutorial
+BackgroundColor3
+CreateButton
+Close
