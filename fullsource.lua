@@ -2432,4 +2432,4 @@ else
 			punish()
 		end
 	end
-ends
+end
