@@ -7,49 +7,71 @@ syn
 Prestige: 
 Aura
 Wrathful Charge Aura
+2361852424
 wait
 Health Max: 
 HttpGet
 AddBox
 Name: 
 Connect
+3210313671
 Melee Resistance: 
 bxor
+70
 Top Respawn
 writefile
+3336571891
 FunAura
 NPC4
 NPC3
+1426881987
 MiscMain
-3
+1555081692
+648454481
 Sword No-Cooldown
+2
 Auto Attack
+1996064986
 Executed
-11
+79
 Credits
 https://sypse.xyz/stuff/Failed.php?key=
 CreateWindow
+120
 Init
 Body
 color
+4094571909
 Future
+134
 Saturation
 coroutine
+773529912
+770255983
 Green Jars
 callback
 AddBind
+1986661051
 Stat Checker
 TP Behind
+0.5
 TextLabel
 TPBehind_Bind
+2227730452
 yeet
 Alpha Clothes
 Dust
+883997877
 Teleportation
 HTC
+1116352408
+2024104815
+2614888103
 Url
 Lookout
 HUD
+1695183700
+3624381080
 AddList
 Other
 Yellow Beans
@@ -57,16 +79,18 @@ Race:
 ClickTP_Bind
 Bean Spam [Deleted]
 Auto Bazooka Fire
+1294757372
 AddColor
 Namek
 GetService
 {}
 First Person
-4
 AddSlider
+1000
 Fusion Stack
 couldnt find http request func
 Drugs
+2952996808
 Misc
 rep
 SendNotification
@@ -76,37 +100,50 @@ Wing/Halo Color
 Aqua Gi
 GET
 Auto Rifle Fire
-7
+2428436474
 Space
 VirtualUser
 Instance
 _G
-6
+0.4
+1747873779
 Super Rush Aura
+1508970993
 Parent
+264347078
 Getting HWID
 Players
 yeet2
 char
 lshift
 NPC2
+666307205
 value
+2162078206
+247
 Not in a Whitelisted Game.
 Dragon Crush Stuck
 Frame
 request
 Close
 Level Remover
+3921009573
 Tutorial
 Ki Max: 
+506948616
+275423344
 Earth
 Duration
+2456956037
 band
 Kick
+3516065817
+1537002063
 Sypse Hub
 IsLoaded
 Blue Jars
 ESP
+3835390401
 Chest ESP
 RightShift
 Earth Godmode
@@ -115,22 +152,27 @@ Text
 StatusCode
 Kaioken Assault Aura
 Zaros
+0.2
 Lock On
 Buy Beans
+2730485921
+659060556
 RobloxCrashHandler
 Fun
-9
+1249150122
 AddToggle
 AddLabel
 Noslow
+1322822218
+1396182291
+1899447441
 Yellow Jars
 Server Destroyer
 isfile
-1
+604807628
 Hard Reset
 report_web
 bit32
-2
 CreateButton
 CoreGui
 Super Dragon Fist Aura
@@ -139,9 +181,9 @@ BackgroundColor3
 Green Beans
 Ki Damage: 
 Workspace
+4022224774
 HardReset_Bind
 SypseHub_HasBeenUsed.json
-5
 SideMenu
 Red Jars
 SYPSE HUB
@@ -150,6 +192,7 @@ FullBright
 Recommended Farm
 Queue World
 GameId
+3259730800
 Heaven
 https://sypse.xyz/stuff/FirstTimeExecute.php?key=
 ImageButton
@@ -158,10 +201,12 @@ connect
 loadstring
 part00
 values
+113926993
 Ki Resistance: 
 TC Armor
 LocalPlayer
 rshift
+958139571
 https://sypse.xyz/svr.php?key=
 Use Moves
 Extra: 
@@ -174,30 +219,38 @@ RunService
 key not found
 Main
 Invisibility
+2177026350
 Buy Elder Kai
+2820302411
 Aleady Executed
 Wing/Halo Remover
+3329325298
 new
 Wide Head
 FOV
+150
+-25
 Stay In Form
 Melee Damage: 
+2554220882
 wrap
 text
 StarterGui
-10
 FunMain
 RenderStepped
 Auto Farm
 Buy
 Secret World
 Checking Game
+200
 Player Name
 https://sypse.xyz/other/nothing.lua.php
 Fixed AutoFarm:
 Segward#7539
+3204031479
 print
 Clothes
+3049323471
 Character
 Title
 Dummy Stand
@@ -206,32 +259,51 @@ Shutdown
 FindFirstChild
 NPC1
 Color3
-8
 Bean Color
 Tele-Speed
 ImageLabel
+310598401
 Red Beans
 AddButton
+338241895
+2821834349
+3600352804
 game
 Jar Color
 Speed: 
 key
 Devil Fruit ESP
 Open/Close UI
+210213771
 state
 format
+2756734187
 assert
+430227734
 part02
+607225278
+1
 byte
 Live
+1925078388
+3345764771
 gsub
 Method
+2453635748
+3584528711
+5
 fromRGB
 Part
+3248222580
 Blue Beans
 Dragon Crush Yeet
+25
+2870763221
 max
+1955562222
 string
+4294967296
+961987163
 MiscOther
 Dragon_Crush
 AddFolder
@@ -246,6 +318,7 @@ setmetatable
 syn
 wait
 getrenv
+0.4
 __index
 RenderStepped
 pcall
@@ -253,27 +326,84 @@ request
 game
 report_web
 Shutdown
+0.4
 wait
 setmetatable
 __tostring
 game
+0.4
 wait
 report_web
 Shutdown
 .
 %02x
+256
+1
+3
+256
+1
+9
+8
+64
 assert
 €
  
+2
+5
+1779033703
+2773480762
+1013904242
+1541459225
+3
+8
+528734635
+7
+1359893119
+4
+1
+2600822924
+6
+3144134277
+25
+3
+15
+18
+8
+1
+5
+19
+6
+10
+11
+7
+13
+64
+16
+4
+22
+17
+2
+3
+5
+7
+64
+4
+6
+1
+2
+8
 Url
 StatusCode
 Method
 game
+0.4
 https://sypse.xyz/stuff/Failed.php?key=
 GET
+200
 wait
 key
 Shutdown
+1
 CurrentCamera
 wait
 Vector2
@@ -323,10 +453,13 @@ GetMouse
 Instance
 Players
 maxForce
+10000000
 Humanoid
 unit
 Players
 cframe
+5
+0.1
 z
 gyro
 Position
@@ -380,6 +513,7 @@ HumanoidRootPart
 Disconnect
 Players
 Destroy
+1
 Destroy
 PlayerGui
 game
@@ -421,6 +555,7 @@ Backpack
 game
 WaitForChild
 CFrame
+3
 Workspace
 Vanish
 Head
@@ -461,7 +596,6 @@ getfovxyz
 _G
 f
 checkfov
-1
 RenderStepped
 SetCore
 Duration
@@ -471,6 +605,7 @@ delay
 LocalPlayer
 game
 aimat
+999
 KeyDown
 CurrentCamera
 Parent
@@ -491,7 +626,9 @@ FindFirstChild
 AnchorPoint
 BorderSizePixel
 Connect
+1
 Team
+0.5
 Parent
 Folder
 Destroy
@@ -522,7 +659,9 @@ Destroy
 Destroy
 Name
 addesp
+20
 t
+1
 Character
 GetChildren
 teambasedswitch
@@ -552,6 +691,7 @@ ToOrientation
 Vector3
 CFrame
 new
+10000
 Parent
 insert
 Workspace
@@ -597,6 +737,7 @@ LocalPlayer
 getaimbotplrs
 ipairs
 connect
+999
 Humanoid
 wait
 pcall
@@ -610,17 +751,21 @@ FieldOfView
 RenderStepped
 Lighting
 RunService
+2000
 Connect
 GetService
 FogEnd
 game
 Disconnect
 Lighting
+99999999
 FogEnd
 game
 Head
 pairs
+0.5
 Humanoid
+2
 Character
 game
 new
@@ -632,18 +777,23 @@ Vector3
 Connect
 GetChildren
 CameraOffset
+-1
 LocalTransparencyModifier
 BasePart
 LocalPlayer
+20
 Name
 Transparency
 LocalTransparencyModifier
+1
 LocalPlayer
+5
 Part
 PrimaryPart
 LowerTorso
 game
 Destroy
+9999
 wait
 Parent
 Vector3
@@ -662,6 +812,7 @@ new
 CFrame
 Health
 Anchored
+3
 WaitForChild
 R6
 R15
@@ -671,6 +822,7 @@ Character
 Enum
 RigType
 wait
+3
 Destroy
 GetService
 RenderSettings
@@ -709,6 +861,7 @@ SuperAction
 FindFirstChild
 Character
 respawn
+0.05
 Destroy
 game
 LocalPlayer
@@ -764,7 +917,6 @@ RobloxCrashHandler
 Boxer
 NPC2
 Chi
-3
 NPC3
 Saiba
 NPC4
@@ -773,13 +925,16 @@ Transparency
 Sudden Storm
 _G
 Trash???
+2
 Name
 Head
+40
 Burning Blast
 PlaceId
 new
 FindFirstChild
 Live
+2050207304
 Melee
 Target
 Murder Grenade
@@ -795,22 +950,28 @@ Justice Flash
 UseMovesMode
 Anger Rush
 LocalPlayer
+0.2
 Backpack
 Vector3
 GetService
 Final Blow
+1
 Activate
 HumanoidRootPart
 GetChildren
 Position
 Parent
+100
 game
 Character
 Workspace
 Deactivate
 wait
+25
 Broly BR
+50
 Ki
+0.3
 wait
 game
 CFrame
@@ -821,16 +982,20 @@ magnitude
 ServerTraits
 mx
 Position
+500
 Players
 Character
+1
 FireServer
 LocalPlayer
 Backpack
 new
 NPC2
+4
 EasingStyle
 magnitude
 Text
+0.27
 new
 EasingDirection
 Transparency
@@ -844,8 +1009,11 @@ Workspace
 RobloxCrashHandler
 FindFirstChild
 NPC4
+1.5
 Live
+0.01
 Size
+3
 find
 string
 Head
@@ -859,8 +1027,12 @@ Position
 NPC3
 Play
 Humanoid
+2050207304
+500
+0.02
 Target
 CoreGui
+1
 RunService
 Create
 wait
@@ -868,11 +1040,13 @@ TweenInfo
 Health
 Y
 CFrame
+0.5
 Character
 RenderStepped
+11
 GetService
 Vector3
-3
+10
 Linear
 TweenService
 red
@@ -881,7 +1055,9 @@ Wait
 Players
 Enum
 Broly BR
+1000
 len
+2
 NPC1
 ChangeState
 game
@@ -897,10 +1073,11 @@ Backpack
 Red
 wait
 Green
+0.3
 FireServer
 Yellow Beans
+1
 BeanBuy4
-80
 Korin BEANS
 Yellow
 ChatStart
@@ -916,7 +1093,6 @@ Players
 FriendlyNPCs
 FireServer
 LocalPlayer
-80
 Red Jars
 ChatStart
 JarBuy2
@@ -934,10 +1110,12 @@ Korin BEANS
 wait
 Red
 Workspace
+0.3
 Green Jars
 Yes
 Yellow Jars
 ServerTraits
+1
 Players
 JarBuy3
 JarBuy4
@@ -946,6 +1124,7 @@ game
 Blue
 elderkaibuy
 game
+0.3
 ServerTraits
 wait
 k
@@ -959,12 +1138,15 @@ Players
 Backpack
 FriendlyNPCs
 LocalPlayer
+1
 _G
 ChatAdvance
 ChatAdvance
+0.35
 k
 ChatStart
 LocalPlayer
+1
 Backpack
 Players
 TC Armor
@@ -975,6 +1157,8 @@ ServerTraits
 Workspace
 Purchase
 wait
+0.35
+1
 Players
 FriendlyNPCs
 Purchase
@@ -1021,7 +1205,6 @@ Mesh
 Character
 game
 Destroy
-2
 TextBox
 Saturation
 FOV
@@ -1031,6 +1214,7 @@ EasingDirection
 InOut
 Create
 game
+35
 Lighting
 ColorCorrection
 CurrentCamera
@@ -1039,24 +1223,33 @@ EasingStyle
 ImageButton
 TweenInfo
 new
+3
 Sine
 high
 Play
+1.1
+1.8
+50
 wait
 GetService
 Enum
 CoreGui
+0.2
 _G
 Workspace
 Frame
 FieldOfView
+120
 RobloxCrashHandler
+-35
 remove
 Vector3
 Great Detective Cape
+1
 Humanoid
 Title
 Create
+5
 FindFirstChildOfClass
 ChangeState
 FriendlyNPCs
@@ -1067,15 +1260,20 @@ Duration
 EasingStyle
 magnitude
 x2
+536102540
 GetService
 InOut
 game
 MaxForce
 IsDescendantOf
+11
 insert
 Sypse Hub
+0.1
+0.5
 Play
 Massless
+0.2
 Workspace
 Part
 Health
@@ -1086,10 +1284,12 @@ Position
 math
 IsA
 PlaceId
+2
 StarterGui
 LocalPlayer
 Players
 CFrame
+1000
 SendNotification
 wait
 PointToWorldSpace
@@ -1099,10 +1299,13 @@ CanCollide
 SetCore
 Linear
 FindFirstChild
+10
 Text
 TweenInfo
 new
+3
 Instance
+2.5
 maybe
 pairs
 table
@@ -1112,6 +1315,7 @@ GetDescendants
 Anchored
 Not On Earth
 Destroy
+12500
 Workspace
 GetChildren
 insert
@@ -1124,6 +1328,7 @@ game
 Humanoid
 FindFirstChild
 find
+1
 table
 Name
 Disconnect
@@ -1132,15 +1337,26 @@ connect
 RunService
 game
 RenderStepped
+291.290009
 game
 new
 Backpack
+-696.695679
 ServerTraits
+0.895282269
 CFrame
+0.445499539
 FireServer
 Vanish
+-5554.28467
 LocalPlayer
 average
+0.933176875
+-0.160120383
+-0.83545661
+0.359417617
+0.321780175
+0.41572988
 Players
 game
 connect
@@ -1208,6 +1424,7 @@ Divine Lasso
 Big Bang Kamehameha
 Final Kame
 Energy Wave
+0.3
 LocalPlayer
 Death Beam Barrage
 Hellzone Grenade
@@ -1222,12 +1439,14 @@ Health
 Text
 wait
 Super Dragon Fist
+0.5
 FindFirstChild
 FindFirstChildOfClass
 LocalPlayer
 Buy Super Dragon Fist
 Activator
 EquipTool
+5
 Destroy
 Backpack
 Humanoid
@@ -1245,6 +1464,7 @@ Players
 SetCore
 Health
 Character
+0.5
 Sypse Hub
 Move Equiped
 Press On a Player
@@ -1265,6 +1485,7 @@ StarterGui
 Players
 Text
 GetService
+5
 SetCore
 SendNotification
 wait
@@ -1272,9 +1493,11 @@ Destroy
 Humanoid
 Buy Kaioken Assault
 Title
+5
 Forward
 Character
 SendNotification
+0.5
 Humanoid
 Backpack
 GetService
@@ -1306,6 +1529,8 @@ wait
 Sypse Hub
 Duration
 Backpack
+0.5
+5
 Humanoid
 SetCore
 Health
@@ -1324,6 +1549,7 @@ LocalPlayer
 Destroy
 FindFirstChildOfClass
 Text
+536102540
 TeleportService
 GetService
 Teleport
@@ -1336,18 +1562,22 @@ game
 TeleportService
 GetService
 LocalPlayer
+882399924
+478132461
 LocalPlayer
 game
 Players
 TeleportService
 GetService
 Teleport
+569994010
 GetService
 TeleportService
 LocalPlayer
 game
 Players
 Teleport
+2046990924
 Players
 LocalPlayer
 GetService
@@ -1355,6 +1585,7 @@ game
 TeleportService
 Teleport
 Players
+3565304751
 GetService
 game
 Teleport
@@ -1362,11 +1593,13 @@ TeleportService
 LocalPlayer
 Teleport
 game
+2651456105
 LocalPlayer
 Players
 TeleportService
 GetService
 LocalPlayer
+882375367
 game
 TeleportService
 GetService
@@ -1374,22 +1607,29 @@ Players
 Teleport
 game
 GetService
+3552157537
 LocalPlayer
 Teleport
 Players
 TeleportService
 HumanoidRootPart
 Workspace
+1
 CurrentCamera
 TweenInfo
 ChangeState
 magnitude
 game
+10
 SYPSE HUB
+0.2
 EasingDirection
 Create
 Character
 TweenService
+2
+0.1
+3
 new
 x2
 Players
@@ -1399,18 +1639,23 @@ Duration
 Enum
 GetService
 SendNotification
+11
 Text
 Humanoid
 PlaceId
 StarterGui
 KAMI
+536102540
 Title
+1000
 EasingStyle
 Position
 Not On Earth
 CFrame
+12500
 Quad
 InOut
+2.5
 Play
 Workspace
 GetChildren
@@ -1426,9 +1671,11 @@ insert
 Name
 remove
 game
+1
 Character
 game
 Target
+5
 new
 GetMouse
 Hit
@@ -1452,25 +1699,18 @@ Race
 Phys-Damage
 Ki-Resist
  Ki Max: 
-10
 Ki-Damage
 Prestige
  Melee Resistance: 
  Prestige: 
  Ki Damage: 
-5
 Value
-4
  Melee Damage: 
 Stats
 RealHalo
 Workspace
-6
-1
-8
 Text
 Phys-Resist
-3
  Health Max: 
 Ki-Max
  Name: 
@@ -1478,19 +1718,15 @@ Ki-Max
 CoreGui
 RobloxCrashHandler
  Extra: Heaven Slot
-9
 game
 Live
  Race: 
-11
 Frame
 FindFirstChild
 Health-Max
  Ki Resistance: 
-7
 Name
  Speed: 
-2
 GetService
 Speed
 RebirthWings
@@ -1507,11 +1743,13 @@ children
 FindFirstChildWhichIsA
 Bottom
 TextLabel
+0.1
 LocalPlayer
 tostring
 MouseButton1Down
 next
 Position
+1
 Scale
 _
 upper
@@ -1537,6 +1775,7 @@ r
 new
 g
 Color3
+0.8
 b
 ImageColor3
 Close
@@ -1545,19 +1784,24 @@ CreateButton
 Health
 Sypse Hub
 FindFirstChild
+79
 Humanoid
 SideMenu
 LocalPlayer
 PlayerGui
+134
 Tutorial
 Bottom
 Players
 Color3
+5
 game
 HUD
 wait
 fromRGB
 BackgroundColor3
+247
+1
 new
 Mid
 Destroy
@@ -1570,8 +1814,10 @@ new
 Button2Up
 CFrame
 Button2Down
+1
 Instance
 onButton1Down
+10000000
 Vector3
 Character
 game
@@ -1590,6 +1836,7 @@ BodyGyro
 onSelected
 GetMouse
 unit
+0.1
 cframe
 Character
 UpperTorso
@@ -1611,6 +1858,7 @@ workspace
 Players
 MoveDirection
 Vector3
+5
 CoordinateFrame
 CFrame
 Parent
@@ -1646,6 +1894,7 @@ GetService
 This Will Cause Lag If ESP Has Been Used Before
 LocalPlayer
 wait
+10
 game
 RunService
 connect
@@ -1653,6 +1902,7 @@ RenderStepped
 Disconnect
 GetService
 Vector3
+10
 HumanoidRootPart
 FireServer
 fire
@@ -1697,6 +1947,7 @@ LocalPlayer
 GetMouse
 ReplicatedStorage
 Position
+10
 Hit
 HumanoidRootPart
 reload
@@ -1725,6 +1976,7 @@ fire
 LocalPlayer
 GunManager
 Position
+10
 new
 Start
 z
@@ -1752,7 +2004,9 @@ PlayerGui
 autoesp
 Chat
 LockOn_Bind
+1
 Instance
+999
 delay
 Title
 LocalPlayer
@@ -1771,6 +2025,7 @@ Name
 aimat
 Destroy
 KeyDown
+5
 new
 Draggable
 Workspace
@@ -1788,6 +2043,7 @@ Instance
 Connect
 Died
 UDim2
+1
 Humanoid
 Team
 pairs
@@ -1796,6 +2052,7 @@ BackgroundColor3
 AnchorPoint
 Workspace
 Folder
+0.5
 Frame
 BackgroundTransparency
 Active
@@ -1844,6 +2101,8 @@ Head
 GetChildren
 Team
 Text
+20
+1
 Character
 Parent
 Vector3
@@ -1854,6 +2113,7 @@ ToOrientation
 Parent
 CFrame
 GetChildren
+10000
 IsA
 Name
 p
@@ -1888,6 +2148,7 @@ abs
 CurrentCamera
 Head
 connect
+999
 getaimbotplrs
 LocalPlayer
 aimat
@@ -1908,6 +2169,7 @@ Env
 BackgroundTransparency
 Vector3
 Enabled
+50
 MeshPart
 Chest
 chestexecute
@@ -1923,10 +2185,12 @@ Workspace
 AlwaysOnTop
 Color3
 StudsOffset
+1
 GetDescendants
 Name
 LightInfluence
 cheststuff
+2
 Size
 BackgroundColor3
 game
@@ -1934,6 +2198,7 @@ Text
 new
 wait
 _G
+50
 devilexecute
 AlwaysOnTop
 BackgroundColor3
@@ -1941,6 +2206,7 @@ Tool
 TextLabel
 Instance
 GetDescendants
+1
 TextScaled
 _G
 Enabled
@@ -1959,6 +2225,7 @@ Parent
 devilstuff
 Text
 BackgroundTransparency
+2
 ClassName
 Handle
 Color3
@@ -1972,6 +2239,10 @@ UDim2
 ZIndexBehavior
 _G
 Name
+14
+25
+1
+100
 TextLabel
 AlwaysOnTop
 Color3
@@ -2017,6 +2288,7 @@ BlurF
 Bloom
 Destroy
 Lighting
+9999999999999
 game
 GetService
 settings
@@ -2029,7 +2301,11 @@ Transparency
 pairs
 Head
 LocalTransparencyModifier
+1
 Vector3
+128
+-1
+0.5
 GetChildren
 IsA
 Name
@@ -2061,6 +2337,7 @@ wait
 GetService
 Kick
 nah b
+0.5
 CoreGui
 FindFirstChild
 Players
