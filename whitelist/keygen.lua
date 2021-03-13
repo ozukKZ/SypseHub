@@ -1,4 +1,4 @@
---made by Cyclops#0001
+--made by Cyclops#0001 (very very old)
 local sets = {
     action = setclipboard,
     howmuchkeys = 10,
