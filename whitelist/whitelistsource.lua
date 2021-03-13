@@ -6,9 +6,51 @@ local http_request = assert(syn.request, 'couldnt find http request func');
 
 local authed = false;
 do
-   --not giving anti http spy source!
-end;
+    local rs = game:GetService'RunService';
+    local flag_ld = false;
 
+    function report_web()
+    print'webhook'
+    end;
+
+    coroutine.wrap(function()
+        flag_ld = true;
+        while true do 
+            local ye, sc = getrenv().pcall(syn.request, setmetatable({}, {
+                __tostring = function()
+                    flag_ld = false;
+                    report_web();
+                    while true do end;
+                end,
+                __index = function()
+                    return setmetatable({}, {
+                        __tostring = function()
+                            flag_ld = false;
+                            report_web();
+                            while true do end;
+                        end;
+                    })
+                end;
+            }))
+            if ye then
+                flag_ld = false;
+                report_web();
+                while true do end;
+            end;
+            rs.Heartbeat:wait();
+        end;
+        flag_ld = false;
+        report_web();
+        while true do end;
+    end)();
+    wait(); --1/30
+    if not flag_ld then
+        --send to webhook
+        report_web();
+        
+        while true do end;
+    end;
+end;
 local hash; do
     local MOD = 2^32
     local MODM = MOD-1
