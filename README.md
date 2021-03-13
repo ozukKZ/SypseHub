@@ -1,5 +1,5 @@
 # SypseHub
-shit skidded script for a roblox game called "Dragon Ball Z Final Stand"
+a shit skidded script hub
 
 credits : 
 ```
