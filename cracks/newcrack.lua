@@ -5,7 +5,7 @@ _G.LockOn_Bind = "N" -- Change this to whatever key you want
 _G.HardReset_Bind = "NONE" -- Change this to whatever key you want
 _G.ClickTP_Bind = "NONE" -- Change this to whatever key you want
 getgenv().key = 'fuck sypse hub'
-do --sypse hub crack
+do --sypse hub crack, same goes for kraken hub too (a revamp of sypse hub)
     local hashalgo = syn.crypt.custom.hash;
     local reqhook, ghook;
     reqhook = hookfunc(syn.request, newcclosure(function(tb)
